@@ -1,0 +1,33 @@
+_repo: Oberman_32808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Senancour, Etienne Pivert de
+    aliases:
+    - Pivert de Senancour, Etienne
+    - De Senancour, Etienne Pivert
+    - Senancour, Étienne Pivert de
+    - Senancour, E. de (Etienne Pivert)
+    birthdate: 1770
+    deathdate: 1846
+    gutenberg_agent_id: '36054'
+    url: http://www.gutenberg.org/2009/agents/36054
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89tienne_Pivert_de_Senancour
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32808'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: Oberman
+url: http://www.gutenberg.org/ebooks/32808
